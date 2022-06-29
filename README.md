@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @2007mi
+- 👀 I'm interested in learning to program
+- 🌱 I'm currently learning to program
+- 💞️ I'm looking to collaborate on programming
